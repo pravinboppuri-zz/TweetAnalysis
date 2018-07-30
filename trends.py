@@ -10,10 +10,10 @@ client = bigquery.Client()
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="/home/bella/key.json"
 
 
-api_key = "05vmjOLTZazXj2doCsLYPXMgx"
-api_secret = "OxV7iOFKA3x3nBBF9WHSpQ0w1SVcNdEjOt3GZPmFqDszahb31L"
-access_token = "1427298992-FNne49AJM0fnq6ZiHBB7RcjcxsslFwLD7Uj4Pnj"
-access_token_secret = "7V4RDqhgxaemcb42mbBIY50T6eSYDesN6TzMcrxZKohww"
+api_key = "kkk"
+api_secret = "978978"
+access_token = "187vj"
+access_token_secret = "7897w"
 auth = OAuthHandler(api_key, api_secret)
 auth.set_access_token(access_token, access_token_secret)
 
