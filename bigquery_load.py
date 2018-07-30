@@ -21,10 +21,10 @@ with open(filename, 'rb') as source_file:
     job = bigquery_client.load_table_from_file(
         source_file,
         table_ref,
-        location='US',  # Must match the destination dataset location.
+        location='US',  
         job_config=job_config)  # API request
 
-job.result()  # Waits for table load to complete.
+job.result()  
 
 print('Loaded {} rows into {}:{}.'.format(
     job.output_rows, dataset_id, table_id))
