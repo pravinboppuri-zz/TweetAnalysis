@@ -4,7 +4,7 @@ As part of this analysis I've built an ETL using Apache Beam :-python (Google Da
 
 A quick insight on the India Twitter Trends - Lunar Eclipse is published here:-
 
-https://datastudio.google.com/reporting/1185yhW2uEzd8LtDdn_TwRl0m0M5_JATY/page/eHqV
+
 
 1) twitter.py
 
