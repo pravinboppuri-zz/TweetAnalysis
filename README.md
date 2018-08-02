@@ -3,6 +3,7 @@
 As part of this analysis I've built an ETL using Apache Beam :-python (Google Dataflow) to get data from twitter on what people say about trending topics in India. Services used in google cloud are Dataflow , cloud storage, Bigquerybig
 
 
+A quick insight is displayed here : https://github.com/pravinboppuri/TweetAnalysis/issues/1
 
 
 ## twitter.py
